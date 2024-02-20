@@ -1,7 +1,3 @@
-Here's a README section for your TestExceptions Java program:
-
----
-
 # TestExceptions
 
 ## Overview
